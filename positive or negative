@@ -1,0 +1,12 @@
+a=int(input('enter the number:'))
+if a>0:
+     print('positive number',a)
+else:
+     print('negative number',a)
+     
+     output:
+  1)   enter the number5
+positive number 5
+
+2)enter the number:-2
+negative number -2
